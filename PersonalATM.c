@@ -1,6 +1,9 @@
-//Author: Anthony Tortola
-//Date: Fall 2018
-//Description: This program will run a personal ATM for the user.
+/*
+Author: Anthony Tortola
+Date: Fall 2018
+Description: This program will run a personal ATM for the user. It will ask for the users starting balance. 
+Next it will display a menu giving the user the option to credit, debit, show current balance, or exit.
+*/
 #include<stdio.h>
 #include<stdbool.h>
 
